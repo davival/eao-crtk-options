@@ -1,0 +1,84 @@
+{
+  "data": {
+    "workflowType": "crtk registration",
+	"experimentName": "EXP-valerida-000007244",
+    "eid": "chemicalDrawing:703f39a4-4ede-46b4-b9c9-cdd33ff9bde8",
+    "attributes": {
+      "products": [
+        {
+          "name": "benzene",
+          "productId": "P1",
+          "row_id": "40",
+          "mol": "
+			  ChemDraw09092207582D
+
+  0  0  0     0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 6 6 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.712422 -0.414219 0.000000 0
+M  V30 2 C 0.712422 0.414219 0.000000 0
+M  V30 3 C -0.000287 -0.830157 0.000000 0
+M  V30 4 C -0.000287 0.830157 0.000000 0
+M  V30 5 C -0.712422 -0.414219 0.000000 0
+M  V30 6 C -0.712422 0.414219 0.000000 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 2 1 2
+M  V30 2 1 1 3
+M  V30 3 1 2 4
+M  V30 4 2 3 5
+M  V30 5 2 4 6
+M  V30 6 1 5 6
+M  V30 END BOND
+M  V30 END CTAB
+M  END  "
+        },
+		{
+          "name": "propane",
+          "productId": "P2",
+          "row_id": "89",
+          "mol": "
+  ChemDraw09092207582D
+
+  0  0  0     0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 3 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C -0.000287 -0.203959 0.000000 0
+M  V30 2 C 0.717005 0.203959 0.000000 0
+M  V30 3 C -0.717005 0.203959 0.000000 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 END BOND
+M  V30 END CTAB
+M  END  "
+		},
+		{
+          "name": "ethanol",
+          "productId": "P3",
+          "row_id": "123",
+          "mol": "
+  ChemDraw09092207582D
+
+  0  0  0     0  0              0 V3000
+M  V30 BEGIN CTAB
+M  V30 COUNTS 3 2 0 0 0
+M  V30 BEGIN ATOM
+M  V30 1 C 0.003724 -0.203672 0.000000 0
+M  V30 2 C -0.713568 0.203672 0.000000 0
+M  V30 3 O 0.713568 0.203672 0.000000 0
+M  V30 END ATOM
+M  V30 BEGIN BOND
+M  V30 1 1 1 2
+M  V30 2 1 1 3
+M  V30 END BOND
+M  V30 END CTAB
+M  END "
+    }
+        }
+      ]
+	}
+}
